@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola World</string>
+    <string name="nameString">Name</string>
+    <string name="addressString">Address</string>
+    <string name="femaleString">Female</string>
+    <string name="cityString">Ciudad</string>
+</resources>
